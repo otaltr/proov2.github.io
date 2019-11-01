@@ -16,7 +16,7 @@ Mul on hea meel, et olete saabunud minu esimesele veebilehele. Alguses veits pus
   <tr>
     <td><b>Õppeaine</b></td>
     <td><h3>EAP</h3></td> 
-    <td></h4>Kas õppeaine meeldib mulle?</h4></td>
+    <td>Kas õppeaine meeldib mulle?</td>
   </tr>
   <tr>
     <td>Programeerimise algkursus</td>

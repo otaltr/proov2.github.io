@@ -2,7 +2,7 @@
 
 Mul on hea meel, et olete saabunud minu esimesele veebilehele. Alguses veits pusisin, et giti üles saada, aga õpetuste abil sain asja käima.
 
-<h1>Suur pealkiri</h1>
+
 <p>
 <h2>Minu matriklinumber: <b>193314IADB</b></h2>
 <p>
@@ -12,7 +12,7 @@ Mul on hea meel, et olete saabunud minu esimesele veebilehele. Alguses veits pus
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Friendly_pumpkin.jpg/1280px-Friendly_pumpkin.jpg">
 <p>
   <h3>Väike tabelike:</h3>
-<table style="width:30%">
+<table style="width:50%">
   <tr>
     <td><b>Õppeaine</b></td>
     <td>EAP</td> 
@@ -38,4 +38,4 @@ Mul on hea meel, et olete saabunud minu esimesele veebilehele. Alguses veits pus
   </tr>
 </table>
 <p>
-  Hetkel kõik, tänan tähelepanu eest!
+  Selleks puhuks kõik, tänan tähelepanu eest!

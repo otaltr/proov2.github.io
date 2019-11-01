@@ -7,6 +7,8 @@ Mul on hea meel, et olete saabunud minu esimesele veebilehele. Alguses veits pus
 <h2>Minu matriklinumber: <b>193314IADB</b></h2>
 <p>
   <a href="http://www.ttu.ee">Tšeki mu kooli ägedat kodulehte</a>
+ <p>
+Üks hirmus pilt kõrvitsast kah:
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Friendly_pumpkin.jpg/1280px-Friendly_pumpkin.jpg">
 <p>
   <h3>Väike tabelike:</h3>
@@ -35,3 +37,5 @@ Mul on hea meel, et olete saabunud minu esimesele veebilehele. Alguses veits pus
     <td>jah</td>
   </tr>
 </table>
+<p>
+  Hetkel kõik, tänan tähelepanu eest!

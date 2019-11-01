@@ -1,6 +1,6 @@
 # Nonii tervist!
 
-minu esimene veebileht
+Mul on hea meel, et olete saabunud minu esimesele veebilehele. Alguses veits pusisin, et giti üles saada, aga õpetuste abil sain asja käima.
 
 <h1>Suur pealkiri</h1>
 <p>
